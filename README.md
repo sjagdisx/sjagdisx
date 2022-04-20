@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjagdisx
 - 👀 I’m interested in computing technology.
 - 🌱 I’m currently learning recent activities in software market.
-- 💞️ I’m looking to collaborate with IT project hubs.
+- 💞️ I’m looking to collaborate with IT project GEEK.
 - 📫 Reach me on my registered EMAIL
 
 <!---
